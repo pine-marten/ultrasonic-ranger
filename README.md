@@ -10,4 +10,4 @@ Using MPASM from MPLAB IDE 8.70 for Windows
 
 description at http://www.richardmudhar.com/blog/2016/10/sonar-ranger-for-the-visually-impaired/
 
-Battery test via potential divider on RA1 is shown in schematic but not implemented in PIC code yet
+Battery test via potential divider on RA1 is shown in schematic but not implemented in PIC code yet 
